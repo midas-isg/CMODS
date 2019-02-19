@@ -3,7 +3,6 @@ package edu.pitt.isg.cmods;
 /// Author:   John Aronis
 /// Date:     January 2019
 
-import java.util.ArrayList ;
 import java.util.Random ;
 
 public class RandomModel {

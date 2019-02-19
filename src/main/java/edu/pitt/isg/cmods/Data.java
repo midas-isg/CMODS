@@ -3,7 +3,6 @@ package edu.pitt.isg.cmods;/// Contents: Read counts of cases from CDC FluView f
 /// Date:     January 2019
 
 import java.io.* ;
-import java.util.StringTokenizer ;
 
 public class Data {
 

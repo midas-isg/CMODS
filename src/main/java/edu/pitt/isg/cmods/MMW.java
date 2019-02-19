@@ -3,7 +3,6 @@ package edu.pitt.isg.cmods;/// Contents: Calculate MMW numbers
 /// Date:     February 2019
 
 import java.io.* ;
-import java.util.StringTokenizer ;
 
 public class MMW {
 

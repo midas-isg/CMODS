@@ -25,3 +25,7 @@ to a physician, and search over 1000000 models.
 The subdirectory src/test/resources contains a single csv file from the CDC
 (https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html) with
 ILINet data.
+
+### Funding Acknowledgement
+
+Count-MODS is funded by the National Institutes of Health (NIGMS) program for Models of Infectious Disease Agent Study (MIDAS) grant U24GM110707.
